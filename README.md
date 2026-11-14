@@ -828,7 +828,46 @@ sources, so it always matches the code you have.
 
 ---
 
-## Credits & License
+## Credits & Contact
 
-Built and maintained by **Abolfazl Zarei**.
-Released under the **GNU Lesser General Public License v3**.
+**ParsRubika** is developed and maintained by **[Abolfazl Zarei](https://abolfazlzarei.sbs)**.
+
+For documentation, official announcements, support, and project updates, you can find us on the following platforms:
+
+| Platform | Official Link |
+|:---:|:---|
+| 🌐 **Website** | [abolfazlzarei.sbs](https://abolfazlzarei.sbs) |
+| 📚 **Documentation** | [parsrubika.ir](https://parsrubika.ir) |
+| 💬 **Rubika** | [@NinjaCode](https://rubika.ir/NinjaCode) |
+| ✈️ **Telegram** | [@Abolfazl_PGR](https://t.me/Abolfazl_PGR) |
+| 🚀 **ParsRubika Channel** | [@parsrubika_lib](https://rubika.ir/parsrubika_lib) |
+
+Stay connected to receive the latest releases, development updates, announcements, and improvements.
+
+---
+
+## License
+
+ParsRubika is licensed under the **GNU Lesser General Public License v3.0 (LGPL-3.0)**.
+
+For more information, see the [LICENSE](LICENSE) file.
+
+---
+
+<p align="center">
+  <strong>ParsRubika v4.0.0</strong>
+  <br><br>
+  Developed and maintained with dedication by
+  <br>
+  <a href="https://abolfazlzarei.sbs"><strong>Abolfazl Zarei</strong></a>
+  <br><br>
+  <a href="https://parsrubika.ir">Documentation</a>
+  &nbsp;·&nbsp;
+  <a href="https://rubika.ir/parsrubika_lib">Official Channel</a>
+  &nbsp;·&nbsp;
+  <a href="https://rubika.ir/NinjaCode">Rubika</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/Abolfazl_PGR">Telegram</a>
+  &nbsp;·&nbsp;
+  <a href="https://abolfazlzarei.sbs">Website</a>
+</p>
