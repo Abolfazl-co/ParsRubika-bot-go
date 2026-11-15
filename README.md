@@ -1,7 +1,7 @@
 # ParsRubika
 
 <p align="center">
-  <img src="parsrubika.ir/assets/img/banner.png" alt="ParsRubika">
+  <img src="https://parsrubika.ir/assets/img/banner.png" alt="ParsRubika">
 </p>
 
 > **A blazing-fast, modular Go library for the Rubika messaging platform.**
